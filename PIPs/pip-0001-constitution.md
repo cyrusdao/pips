@@ -2,7 +2,7 @@
 
 | PIP | Title | Status | Type | Created | Discussion |
 |:----|:------|:-------|:-----|:--------|:-----------|
-| 0001 | Constitution of the Pars Network | Draft | Governance | 2025-01-12 | [GitHub](https://github.com/cyrus-pahlavi/pips/discussions/2) |
+| 0001 | Constitution of the Pars Network | Draft | Governance | 2025-01-12 | [GitHub](https://github.com/cyrusdao/pips/discussions/2) |
 
 ---
 

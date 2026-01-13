@@ -2,7 +2,7 @@
 
 | PIP | Title | Status | Type | Created | Discussion |
 |:----|:------|:-------|:-----|:--------|:-----------|
-| 0001 | Token Economics | Final | Standard | 2026-01-12 | [GitHub](https://github.com/cyrus-pahlavi/pips/discussions/7) |
+| 0001 | Token Economics | Final | Standard | 2026-01-12 | [GitHub](https://github.com/cyrusdao/pips/discussions/7) |
 
 ## Summary
 

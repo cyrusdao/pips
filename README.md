@@ -60,13 +60,13 @@ Cyrus Protocol operates a **multi-token governance ecosystem** designed for the 
 ### 🎯 Essential PIPs
 | Category | Resource | Description | Discussion |
 |:---------|:---------|:------------|:-----------|
-| **Core Architecture** | [PIP-0000](./PIPs/pip-0000-protocol-architecture.md) | Protocol foundation | [Discuss](https://github.com/cyrus-pahlavi/pips/discussions/1) |
-| **Constitution** | [PIP-0001](./PIPs/pip-0001-constitution.md) | Pars Network constitution | [Discuss](https://github.com/cyrus-pahlavi/pips/discussions/2) |
-| **Token Economics** | [PIP-0001b](./PIPs/pip-0001-token-economics.md) | CYRUS, PARS, xPARS, vePARS | [Discuss](https://github.com/cyrus-pahlavi/pips/discussions/7) |
-| **Quadratic Voting** | [PIP-0002](./PIPs/pip-0002-quadratic-timelock-voting.md) | Quadratic time-locked voting | [Discuss](https://github.com/cyrus-pahlavi/pips/discussions/3) |
-| **Paired Lock** | [PIP-0003](./PIPs/pip-0003-paired-lock-governance.md) | PARS + CYRUS → vePARS | [Discuss](https://github.com/cyrus-pahlavi/pips/discussions/4) |
-| **Grants Framework** | [PIP-0004](./PIPs/pip-0004-techno-capital-grants.md) | Techno-capital grants | [Discuss](https://github.com/cyrus-pahlavi/pips/discussions/5) |
-| **Strategic Execution** | [PIP-0005](./PIPs/pip-0005-strategic-execution.md) | Market entry & growth | [Discuss](https://github.com/cyrus-pahlavi/pips/discussions/6) |
+| **Core Architecture** | [PIP-0000](./PIPs/pip-0000-protocol-architecture.md) | Protocol foundation | [Discuss](https://github.com/cyrusdao/pips/discussions/1) |
+| **Constitution** | [PIP-0001](./PIPs/pip-0001-constitution.md) | Pars Network constitution | [Discuss](https://github.com/cyrusdao/pips/discussions/2) |
+| **Token Economics** | [PIP-0001b](./PIPs/pip-0001-token-economics.md) | CYRUS, PARS, xPARS, vePARS | [Discuss](https://github.com/cyrusdao/pips/discussions/7) |
+| **Quadratic Voting** | [PIP-0002](./PIPs/pip-0002-quadratic-timelock-voting.md) | Quadratic time-locked voting | [Discuss](https://github.com/cyrusdao/pips/discussions/3) |
+| **Paired Lock** | [PIP-0003](./PIPs/pip-0003-paired-lock-governance.md) | PARS + CYRUS → vePARS | [Discuss](https://github.com/cyrusdao/pips/discussions/4) |
+| **Grants Framework** | [PIP-0004](./PIPs/pip-0004-techno-capital-grants.md) | Techno-capital grants | [Discuss](https://github.com/cyrusdao/pips/discussions/5) |
+| **Strategic Execution** | [PIP-0005](./PIPs/pip-0005-strategic-execution.md) | Market entry & growth | [Discuss](https://github.com/cyrusdao/pips/discussions/6) |
 
 ---
 

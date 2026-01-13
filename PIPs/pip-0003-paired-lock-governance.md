@@ -2,7 +2,7 @@
 
 | PIP | Title | Status | Type | Created | Discussion |
 |:----|:------|:-------|:-----|:--------|:-----------|
-| 0003 | Paired Lock Governance | Draft | Standard | 2026-01-12 | [GitHub](https://github.com/cyrus-pahlavi/pips/discussions/4) |
+| 0003 | Paired Lock Governance | Draft | Standard | 2026-01-12 | [GitHub](https://github.com/cyrusdao/pips/discussions/4) |
 
 ## Summary
 

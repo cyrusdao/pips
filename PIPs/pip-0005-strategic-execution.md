@@ -2,7 +2,7 @@
 
 | PIP | Title | Status | Type | Created | Discussion |
 |:----|:------|:-------|:-----|:--------|:-----------|
-| 0005 | Strategic Execution Plan | Draft | Process | 2026-01-12 | [GitHub](https://github.com/cyrus-pahlavi/pips/discussions/6) |
+| 0005 | Strategic Execution Plan | Draft | Process | 2026-01-12 | [GitHub](https://github.com/cyrusdao/pips/discussions/6) |
 
 ## Summary
 

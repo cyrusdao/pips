@@ -2,7 +2,7 @@
 
 | PIP | Title | Status | Type | Created | Discussion |
 |:----|:------|:-------|:-----|:--------|:-----------|
-| 0000 | Protocol Architecture | Final | Standard | 2026-01-12 | [GitHub](https://github.com/cyrus-pahlavi/pips/discussions/1) |
+| 0000 | Protocol Architecture | Final | Standard | 2026-01-12 | [GitHub](https://github.com/cyrusdao/pips/discussions/1) |
 
 ## Summary
 
