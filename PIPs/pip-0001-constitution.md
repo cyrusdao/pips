@@ -1,9 +1,16 @@
-# PIP-0001: Constitution of the Pars Network
-
-| PIP | Title | Status | Type | Created | Discussion |
-|:----|:------|:-------|:-----|:--------|:-----------|
-| 0001 | Constitution of the Pars Network | Draft | Governance | 2025-01-12 | [GitHub](https://github.com/cyrusdao/pips/discussions/2) |
-
+---
+pip: 1
+title: Constitution of the Pars Network
+tags: [constitution, governance, values, principles]
+description: The foundational document establishing the mission, values, and governance principles of Pars Network
+author: Cyrus Protocol Team (@cyrusdao)
+status: Draft
+type: Governance
+category: Core
+created: 2025-01-12
+discussions-to: https://github.com/cyrusdao/pips/discussions/2
+order: 1
+tier: core
 ---
 
 ## Preamble: The Cylinder Reborn

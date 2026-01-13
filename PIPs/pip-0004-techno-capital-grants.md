@@ -1,10 +1,19 @@
-# PIP-0004: Techno-Capital Grants Framework
+---
+pip: 4
+title: Techno-Capital Grants Framework
+tags: [grants, compute, capital, code, community]
+description: Four-pillar contribution framework enabling permissionless grants through Compute, Capital, Code, and Community
+author: Cyrus Protocol Team (@cyrusdao)
+status: Draft
+type: Standards Track
+category: Community
+created: 2026-01-12
+discussions-to: https://github.com/cyrusdao/pips/discussions/5
+order: 4
+tier: community
+---
 
-| PIP | Title | Status | Type | Created | Discussion |
-|:----|:------|:-------|:-----|:--------|:-----------|
-| 0004 | Techno-Capital Grants Framework | Draft | Standard | 2026-01-12 | [GitHub](https://github.com/cyrusdao/pips/discussions/5) |
-
-## Summary
+## Abstract
 
 This PIP establishes the **Techno-Capital Grants Framework** for Cyrus Protocol, inspired by the [Morpheus](https://mor.org) contribution model. It defines four contribution pillars - **Compute, Capital, Code, and Community** - enabling anyone to contribute to the protocol and earn PARS rewards. This framework acknowledges the exceptional intelligence and talent of the Persian diaspora, creating pathways to organize collective action, accelerate the OSS flywheel, and democratize access to cutting-edge AI and finance.
 

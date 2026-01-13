@@ -1,10 +1,19 @@
-# PIP-0002: Quadratic Time-Locked Voting
+---
+pip: 2
+title: Quadratic Time-Locked Voting
+tags: [voting, governance, quadratic, timelock]
+description: Quadratic Time-Locked Voting (QTLV) combines quadratic voting with time-lock commitment for fairer governance
+author: Cyrus Protocol Team (@cyrusdao)
+status: Draft
+type: Standards Track
+category: Governance
+created: 2026-01-12
+discussions-to: https://github.com/cyrusdao/pips/discussions/3
+order: 2
+tier: governance
+---
 
-| PIP | Title | Status | Type | Created | Discussion |
-|:----|:------|:-------|:-----|:--------|:-----------|
-| 0002 | Quadratic Time-Locked Voting | Draft | Standard | 2026-01-12 | [GitHub](https://github.com/cyrusdao/pips/discussions/3) |
-
-## Summary
+## Abstract
 
 This PIP introduces Quadratic Time-Locked Voting (QTLV) to the Cyrus Protocol governance system. QTLV combines quadratic voting mechanics with time-lock commitment to create a fairer, more democratic governance system that rewards long-term commitment while preventing whale dominance.
 

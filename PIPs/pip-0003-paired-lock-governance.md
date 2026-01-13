@@ -1,10 +1,19 @@
-# PIP-0003: Paired Lock Governance
+---
+pip: 3
+title: Paired Lock Governance
+tags: [governance, voting, paired-lock, vePARS]
+description: Paired Lock governance mechanism requiring both PARS and CYRUS to be locked together for vePARS voting power
+author: Cyrus Protocol Team (@cyrusdao)
+status: Draft
+type: Standards Track
+category: Governance
+created: 2026-01-12
+discussions-to: https://github.com/cyrusdao/pips/discussions/4
+order: 3
+tier: governance
+---
 
-| PIP | Title | Status | Type | Created | Discussion |
-|:----|:------|:-------|:-----|:--------|:-----------|
-| 0003 | Paired Lock Governance | Draft | Standard | 2026-01-12 | [GitHub](https://github.com/cyrusdao/pips/discussions/4) |
-
-## Summary
+## Abstract
 
 This PIP introduces the **Paired Lock** governance mechanism where users must lock both PARS and CYRUS together to receive vePARS voting power. This design ensures alignment between emissions recipients (PARS holders) and protocol stakeholders (CYRUS holders), creating a more robust governance system.
 

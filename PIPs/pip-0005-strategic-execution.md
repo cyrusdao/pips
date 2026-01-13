@@ -1,10 +1,19 @@
-# PIP-0005: Strategic Execution Plan
+---
+pip: 5
+title: Strategic Execution Plan
+tags: [strategy, execution, chapters, gauges]
+description: Strategic execution plan for market entry and growth through penetration incentives and local chapters
+author: Cyrus Protocol Team (@cyrusdao)
+status: Draft
+type: Standards Track
+category: Governance
+created: 2026-01-12
+discussions-to: https://github.com/cyrusdao/pips/discussions/6
+order: 5
+tier: governance
+---
 
-| PIP | Title | Status | Type | Created | Discussion |
-|:----|:------|:-------|:-----|:--------|:-----------|
-| 0005 | Strategic Execution Plan | Draft | Process | 2026-01-12 | [GitHub](https://github.com/cyrusdao/pips/discussions/6) |
-
-## Summary
+## Abstract
 
 This PIP defines the strategic execution plan for Cyrus Protocol's market entry and growth. Drawing inspiration from successful network-effect businesses (Flash, Grab, Uber), it outlines how to win through **penetration incentives**, **zero-friction onboarding**, **local chapters as gauges**, and **sustainable economics**. The goal: build the most credible, easiest-to-use civic infrastructure for the Persian diaspora.
 

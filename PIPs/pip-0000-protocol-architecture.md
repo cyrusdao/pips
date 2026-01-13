@@ -1,10 +1,19 @@
-# PIP-0000: Cyrus Protocol Architecture
+---
+pip: 0
+title: Cyrus Protocol Architecture
+tags: [protocol, core, architecture, token]
+description: Establishes the foundational architecture including token structure, governance mechanisms, and economic design.
+author: Cyrus Protocol Team (@cyrusdao)
+status: Final
+type: Standards Track
+category: Core
+created: 2026-01-12
+discussions-to: https://github.com/cyrusdao/pips/discussions/1
+order: 0
+tier: core
+---
 
-| PIP | Title | Status | Type | Created | Discussion |
-|:----|:------|:-------|:-----|:--------|:-----------|
-| 0000 | Protocol Architecture | Final | Standard | 2026-01-12 | [GitHub](https://github.com/cyrusdao/pips/discussions/1) |
-
-## Summary
+## Abstract
 
 Cyrus Protocol is a multi-token governance ecosystem designed for the global Iranian diaspora. This PIP establishes the foundational architecture including token structure, governance mechanisms, and economic design.
 

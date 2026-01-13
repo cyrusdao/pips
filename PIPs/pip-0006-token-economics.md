@@ -1,10 +1,19 @@
-# PIP-0001: Token Economics
+---
+pip: 6
+title: Token Economics
+tags: [token, economics, CYRUS, PARS, xPARS, vePARS]
+description: Complete token economics for CYRUS, PARS, xPARS, and vePARS including supply schedules and distribution mechanisms
+author: Cyrus Protocol Team (@cyrusdao)
+status: Final
+type: Standards Track
+category: Core
+created: 2026-01-12
+discussions-to: https://github.com/cyrusdao/pips/discussions/7
+order: 6
+tier: core
+---
 
-| PIP | Title | Status | Type | Created | Discussion |
-|:----|:------|:-------|:-----|:--------|:-----------|
-| 0001 | Token Economics | Final | Standard | 2026-01-12 | [GitHub](https://github.com/cyrusdao/pips/discussions/7) |
-
-## Summary
+## Abstract
 
 This PIP defines the token economics for the Cyrus Protocol, including supply schedules, distribution mechanisms, and economic incentives for CYRUS, PARS, xPARS, and vePARS tokens.
 
